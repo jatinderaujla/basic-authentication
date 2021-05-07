@@ -1,6 +1,6 @@
-package com.pinakey.user.config;
+package com.jatinder.develop.config;
 
-import com.pinakey.user.service.AppUserDetailService;
+import com.jatinder.develop.service.AppUserDetailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.pinakey.user;
+package com.jatinder.develop;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

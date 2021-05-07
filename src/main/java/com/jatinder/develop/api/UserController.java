@@ -1,7 +1,7 @@
-package com.pinakey.user.api;
+package com.jatinder.develop.api;
 
-import com.pinakey.user.model.AppUser;
-import com.pinakey.user.repository.UserRepository;
+import com.jatinder.develop.model.AppUser;
+import com.jatinder.develop.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.password.PasswordEncoder;

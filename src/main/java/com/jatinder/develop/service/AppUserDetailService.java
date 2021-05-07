@@ -1,6 +1,6 @@
-package com.pinakey.user.service;
+package com.jatinder.develop.service;
 
-import com.pinakey.user.repository.UserRepository;
+import com.jatinder.develop.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

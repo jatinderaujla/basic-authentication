@@ -1,6 +1,5 @@
-package com.pinakey.user.model;
+package com.jatinder.develop.model;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

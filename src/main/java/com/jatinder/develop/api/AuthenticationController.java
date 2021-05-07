@@ -1,6 +1,6 @@
-package com.pinakey.user.api;
+package com.jatinder.develop.api;
 
-import com.pinakey.user.model.AppUser;
+import com.jatinder.develop.model.AppUser;
 import org.springframework.web.bind.annotation.*;
 
 import java.security.Principal;

@@ -1,7 +1,7 @@
-package com.pinakey.user.api;
+package com.jatinder.develop.api;
 
-import com.pinakey.user.model.Role;
-import com.pinakey.user.repository.RoleRepository;
+import com.jatinder.develop.model.Role;
+import com.jatinder.develop.repository.RoleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

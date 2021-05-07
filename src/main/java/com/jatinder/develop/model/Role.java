@@ -1,4 +1,4 @@
-package com.pinakey.user.model;
+package com.jatinder.develop.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.AllArgsConstructor;
